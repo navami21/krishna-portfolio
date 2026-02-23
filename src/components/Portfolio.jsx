@@ -367,7 +367,6 @@ export default function Portfolio() {
                 <Typewriter
                   words={[
                     "Machine Learning Enthusiast",
-                    "Full Stack Developer",
                     "AI/ML Specialist",
                     "Problem Solver"
                   ]}
@@ -392,7 +391,7 @@ export default function Portfolio() {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="/KrisnaP.S.pdf"
+                href="/KrishnaP.S.pdf"
                 download
                 className="relative group px-6 sm:px-8 py-2.5 sm:py-3 rounded-lg font-semibold overflow-hidden flex items-center justify-center gap-2 text-sm sm:text-base"
               >
